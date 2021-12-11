@@ -1,0 +1,17 @@
+
+# Editor directories and files
+.idea
+.editorconfig
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
+*.xls
+*.xlsx
+test*
+Test*
+TEST*
+*.o
